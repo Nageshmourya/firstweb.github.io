@@ -115,3 +115,16 @@ background-attachment: fixed;
 .ram{
     margin: 80px 80px;
 }
+.cantainer,a{
+ background-color: brown;
+ text-align: right;
+ padding: 25px;
+ color: aliceblue;
+
+}
+span{
+    font-size: 250%;
+    margin-bottom: 25px;
+    margin-right: 50%;
+
+}
