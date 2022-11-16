@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height:100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color:#666
+}
+.pimg1{
+    background-image: url(image1.jpg);
+min-height: 100%;
+}
+.text{
+    position: absolute;
+    width: 100%;
+    color: white;
+    text-align: center;
+    top: 50%;
+   font-size: 27px;
+   letter-spacing: 16px;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nesttext1{
+ background-color: #666;
+ padding: 25px;
+}
+.pimg2{
+    background-image: url(image2.jpg);
+    min-height: 600px;
+}
+.pimg4{
+    background-image: url(7.jpg);
+    min-height: 600px;
+}
+.pimg3{
+    background-image: url(image3.jpg);
+    min-height: 600px;
+}
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4{
+position: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.ss{
+    padding: 50px 80px;
+    height: 200px;
+    background-color: darkgrey;
+}
+.ss1{
+    text-align: center;
+}
+.ss2{
+    letter-spacing:normal;
+  text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.text2{
+    position: absolute;
+    width: 100%;
+    color: white;
+    text-align: center;
+ top:180%;
+   font-size: 27px;
+   letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text3{
+    background-color: #666;
+    padding: 20px;
+}
+.ssl{
+    background-color: #666;
+    color: white;
+    padding: 50px 80px;
+    text-align: center; 
+}
+.text9{
+
+        position: absolute;
+        width: 100%;
+        color: white;
+        text-align: center;
+      top:50%;
+       font-size: 27px;
+       letter-spacing: 8px;
+        text-transform: uppercase;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.text91{
+    background-color: #666;
+ padding: 20px;
+}
+.ss2{
+    padding: 50px 80px;
+}
+.ssn1,
+.ssm1{
+    color: black;
+}
+.ram{
+    margin: 80px 80px;
+}
